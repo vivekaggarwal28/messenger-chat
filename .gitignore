@@ -1,0 +1,7 @@
+node_modules
+.project
+.vscode
+.DS_Store
+.idea
+*.iml
+build
